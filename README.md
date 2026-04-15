@@ -1,5 +1,7 @@
 # -E-Commerce-Sales-Analysis-Dashboard
 A fully interactive dark-themed Excel dashboard built from scratch using raw e-commerce data, Pivot Tables, Slicers, and advanced chart formatting.
+<img width="1862" height="657" alt="Dashboard" src="https://github.com/user-attachments/assets/d10b3613-f168-45c2-9813-eea09ab41bfa" />
+
 
 
 🚀 Overview
