@@ -77,6 +77,7 @@ Windows recommended (Map Charts may not render on Mac)
 
 
 🙋‍♂️ Author
+MANIKYA PASI
 Built with 💪 from raw data to a professional dashboard.
 Feel free to ⭐ star this repo if you found it useful!
 
