@@ -42,7 +42,11 @@ Ship Mode
 
 
 📈 Key Insights
-MetricValueYOY GrowthTotal Sales$2,297,200.86▲ 20.62%Total Profit$286,397.02▲ 14.41%Total Quantity37,873▲ 27.45%Total Orders9,994▲ 28.64%Profit Margin12.47%▼ 5.15% ⚠️
+Metric Value YOY Growth Total Sales$2,297,200.86▲ 20.62%
+Total Profit$286,397.02▲ 14.41%
+Total Quantity37,873▲ 27.45%
+Total Orders9,994▲ 28.64%
+Profit Margin12.47%▼ 5.15% ⚠️
 
 Technology leads in profit ($145.45K)
 Furniture has the lowest profit margin despite 32.30% sales share
