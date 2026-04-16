@@ -1,89 +1,256 @@
-# -E-Commerce-Sales-Analysis-Dashboard
-A fully interactive dark-themed Excel dashboard built from scratch using raw e-commerce data, Pivot Tables, Slicers, and advanced chart formatting.
-<img width="1862" height="657" alt="Dashboard" src="https://github.com/user-attachments/assets/d10b3613-f168-45c2-9813-eea09ab41bfa" />
+# 🛒 E-Commerce Sales Analysis Dashboard
 
+<div align="center">
 
+![Dashboard Banner](https://img.shields.io/badge/E--Commerce-Sales%20Analysis-00bcd4?style=for-the-badge&logo=shopify&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
+![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)
 
-🚀 Overview
-This project transforms raw e-commerce transactional data into a premium, interactive Excel dashboard that provides real-time business insights across sales, profit, customers, and product performance.
+**A fully interactive multi-page Power BI dashboard for end-to-end e-commerce sales performance analysis — featuring KPIs, trends, profit insights, geographic distribution, and AI-driven business recommendations.**
 
-✨ Features
+</div>
 
-📦 5 KPI Cards — Sales, Profit, Quantity, Orders, Profit Margin
-⚠️ Smart Alert Card — Red warning card for declining Profit Margin (YOY ▼5.15%)
-▲▼ YOY Growth Indicators — Green/Red conditional formatting with custom number format
-📈 Monthly Sales & Profit Trend — Combo chart (Bar + Line)
-🏷️ Profit by Category — Column chart (Technology, Office Supplies, Furniture)
-🍩 Sales Distribution by Category — Donut chart with percentages
-👥 Top 5 Customers by Revenue — Horizontal bar chart
-🗺️ Geographic Sales Distribution — Filled map chart with teal gradient
-🛒 Best Selling Products by Quantity — Donut chart with custom icon
-🎛️ Interactive Slicers — Filter by Region & Shipment Mode
+---
 
+## 📸 Preview
 
-🛠️ Tools & Techniques Used
-ToolUsageMicrosoft ExcelDashboard buildingPivot TablesData aggregationPivot ChartsAll 7 visualizationsSlicersInteractive filteringConditional FormattingYOY growth colorsCustom Number Format▲▼ arrow symbolsSparklinesKPI card trend linesMap ChartGeographic distributionShape FormattingDark theme KPI cards
+| 🏠 Home Page | 📊 Dashboard | 💡 Insights |
+|:---:|:---:|:---:|
+| ![Home](<img width="1856" height="658" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/c0931fbc-eee8-4024-bb83-124fc37374fd" />
+) | ![Dashboard](<img width="1861" height="657" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/1675394c-2325-4cf4-a985-c5850053c1d1" />
+) | ![Insights](<img width="1862" height="665" alt="INSIGHTS" src="https://github.com/user-attachments/assets/c8c18817-3b78-4c83-ba89-05fcf116cf08" />
+) |
+| Navigation Hub | KPIs & Visuals | Trends & Alerts |
 
-📁 Project Structure
-📦 ecommerce-dashboard
- ┣ 📊 ECommerce_Dashboard.xlsx    # Main dashboard file
- ┣ 📄 Raw_Data.csv                # Original dataset
- ┗ 📸 dashboard_preview.png       # Dashboard screenshot
+---
 
-📊 Dataset
-The dataset contains 9,994 orders with the following fields:
+## 📑 Table of Contents
 
-Order ID, Order Date, Ship Date
-Region, State, City
-Category, Sub-Category, Product Name
-Customer Name, Segment
-Sales, Profit, Quantity, Discount
-Ship Mode
+- [Overview](#-overview)
+- [Pages](#-pages)
+- [KPI Metrics](#-kpi-metrics)
+- [Visualizations](#-visualizations)
+- [Insights & Recommendations](#-insights--recommendations)
+- [Tech Stack](#-tech-stack)
+- [How to Use](#-how-to-use)
+- [Project Structure](#-project-structure)
+- [Author](#-author)
 
+---
 
-📈 Key Insights
-Metric Value YOY Growth Total Sales$2,297,200.86▲ 20.62%
-Total Profit$286,397.02▲ 14.41%
-Total Quantity37,873▲ 27.45%
-Total Orders9,994▲ 28.64%
-Profit Margin12.47%▼ 5.15% ⚠️
+## 🌐 Overview
 
-Technology leads in profit ($145.45K)
-Furniture has the lowest profit margin despite 32.30% sales share
-Staples is the highest selling product by quantity (876 units)
-Sean Miller is the top customer ($25.04K)
-Sales peak in Q4 (Sep–Dec) showing strong seasonality
+This dashboard provides a **360° view of e-commerce sales performance**, designed to help business analysts, managers, and stakeholders make data-driven decisions. It covers everything from high-level KPI tracking to granular category-level profit analysis and AI-generated strategic recommendations.
 
+> 🎯 **Goal:** Turn raw sales data into clear, actionable intelligence — from total revenue down to which products are silently eating your margin.
 
-🎨 Design Highlights
+---
 
-Dark navy theme (#0A0F1E background)
-Cyan accent (#00BCD4) for positive metrics
-Metallic grey KPI cards with gradient
-Lime green profit trend line (#76FF03)
-Deep red alert card for declining margin
-Teal gradient map chart
+## 📄 Pages
 
+### `1` 🏠 Home Page
+The **navigation hub** of the report. Users are greeted with a clean welcome screen offering two primary paths:
 
-🔧 How to Use
+| Tile | Description |
+|------|-------------|
+| 💡 **DASHBOARD** | Sales overview, KPIs, top products & analytical performance |
+| 📘 **INSIGHTS** | Trends, alerts, profit analysis & growth opportunities |
 
-Download ECommerce_Dashboard.xlsx
-Open in Microsoft Excel 2016 or later
-Use Region slicer to filter by Central / East / South / West
-Use Ship Mode slicer to filter by shipping class
-All charts and KPIs update automatically ✅
+> Signed-in user profile displayed at the top right corner with status indicator.
 
+---
 
-📌 Requirements
+### `2` 📊 Dashboard Page
+The core analytical view with **filters, KPI cards, and 6 chart types**.
 
-Microsoft Excel 2016+ (for Map Chart support)
-Windows recommended (Map Charts may not render on Mac)
+#### 🎛️ Active Filters
+| Filter | Options |
+|--------|---------|
+| 🌍 Region | Central · East · South · West |
+| 🚚 Ship Mode | First Class · Same Day · Second Class · Standard Class |
 
+---
 
-🙋‍♂️ Author
-MANIKYA PASI
-Built with 💪 from raw data to a professional dashboard.
-Feel free to ⭐ star this repo if you found it useful!
+## 📈 KPI Metrics
 
-📄 License
-This project is open source and available under the MIT License.
+> All KPIs reflect **Year-over-Year (YOY)** growth performance.
+
+| Metric | Value | YOY Growth | Status |
+|--------|-------|-----------|--------|
+| 💰 **Sales** | $2,297,200.86 | ▲ 20.62% | ✅ Positive |
+| 📦 **Profit** | $286,397.02 | ▲ 14.41% | ✅ Positive |
+| 🔢 **Quantity** | 37,873 units | ▲ 27.45% | ✅ Positive |
+| 🧾 **Orders** | 9,994 | ▲ 28.64% | ✅ Positive |
+| 📉 **Profit Margin** | 12.47% | ▼ 5.15% | 🔴 Alert |
+
+> ⚠️ **Critical:** While volume metrics are growing, **Profit Margin is declining** — indicating rising costs or over-discounting.
+
+---
+
+## 📊 Visualizations
+
+### 📅 Monthly Sales & Profit Trend
+A dual-axis combo chart tracking monthly Sales (bar) and Profit (line) across the full year.
+
+```
+Peak Period:  Sep → Dec (Sales spike to $300K+)
+Profit Peak:  Aligned with Q4 but margin compression visible
+```
+
+---
+
+### 🍩 Sales Distribution by Category
+
+| Category | Share |
+|----------|-------|
+| 🖥️ Technology | 32% |
+| 🗂️ Office Supplies | 37% |
+| 🪑 Furniture | 31% |
+
+---
+
+### 📦 Profit by Category
+
+| Category | Profit | Notes |
+|----------|--------|-------|
+| 🖥️ Technology | $145,450 | 🏆 Highest profit — most efficient category |
+| 🗂️ Office Supplies | $122,490 | Solid performer |
+| 🪑 Furniture | $18,450 | ⚠️ Low return for 31% of sales |
+| **Grand Total** | **$286,400** | |
+
+---
+
+### 👥 Top 5 Customers by Revenue
+
+| Rank | Customer | Revenue |
+|------|----------|---------|
+| 🥇 | Sean Miller | $25,040 |
+| 🥈 | Tamara Chand | $19,050 |
+| 🥉 | Raymond Buch | $15,120 |
+| 4️⃣ | Tom Ashbrook | $14,600 |
+| 5️⃣ | Adrian Barton | $14,470 |
+
+---
+
+### 🛍️ Best Selling Products by Quantity
+
+| Rank | Product | Units Sold |
+|------|---------|-----------|
+| 🏆 | **Staples** | 876 |
+| 2 | Avery Non-Stick Binders | 74 |
+| 3 | Storex Dura Pro Binders | 71 |
+| 4 | KI Adjustable-Height Table | 71 |
+| 5 | GBC Premium Transparent Covers | 67 |
+
+---
+
+### 🗺️ Geographic Sales Distribution
+Interactive US map showing sales heat by state. West region dominates with up to **$457.69K** in sales.
+
+---
+
+## 💡 Insights & Recommendations
+
+> The **Insights Page** delivers 7 color-coded strategic alerts generated from the data.
+
+### 🔴 Critical Issues
+
+| # | Alert | Finding | Action |
+|---|-------|---------|--------|
+| 1 | 🚨 **Profit Margin Declining** | Sales +20.62% but margin fell 5.15% YOY | Fix pricing or renegotiate supplier costs immediately |
+| 2 | 📅 **Q4 is Your Peak — You're Not Ready** | Sep–Dec sales spike to $300K+ but margin is shrinking | Plan pricing & inventory before Q4 rush |
+
+---
+
+### 🟡 Opportunities
+
+| # | Insight | Detail |
+|---|---------|--------|
+| 3 | 🏆 **Technology Is Your Goldmine** | $145K profit = 51% of total profit at only 32% sales volume | Push more ad spend & inventory into Tech |
+| 4 | 🪑 **Furniture Is a Problem** | $18.4K profit despite 31% sales mix | Reprice it or cut low-margin SKUs |
+| 5 | 📌 **Staples Is Misleading** | 876 units sold — high volume, but is it profitable? | Verify margin contribution vs. order inflation |
+
+---
+
+### 🟢 Strategic Alerts
+
+| # | Alert | Recommendation |
+|---|-------|----------------|
+| 6 | 👥 **Top 5 Customers = Risky Concentration** | Sean Miller alone = $25K | Launch a loyalty/retention program now |
+| 7 | 🌍 **West Dominates, South Lags** | South significantly behind all regions | Run targeted South campaign or investigate demand |
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| ![EXCEL](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) | Dashboard development & visualizations |
+| ![DAX](https://img.shields.io/badge/DAX-Measures%20%26%20KPIs-blue) | KPI calculations, YOY growth, profit metrics |
+| ![Bing Maps](https://img.shields.io/badge/Bing%20Maps-Geographic%20Visual-00bcd4) | Geographic sales distribution map |
+| ![Excel/CSV](https://img.shields.io/badge/Data%20Source-Excel%20%2F%20CSV-217346?logo=microsoftexcel&logoColor=white) | Underlying sales data |
+
+---
+
+## 🚀 How to Use
+
+```bash
+# 1. Clone this repository
+git clone https://github.com/your-username/ecommerce-sales-dashboard.git
+
+# 2. Open the Power BI file
+cd ecommerce-sales-dashboard
+start ECommerce_Sales_Dashboard.pbix   # Windows
+open ECommerce_Sales_Dashboard.pbix    # Mac (requires Power BI Desktop)
+```
+
+### Steps Inside Power BI
+
+```
+1. Open the .pbix file in Power BI Desktop
+2. Update the data source path (Transform Data → Data Source Settings)
+3. Click Refresh to load your data
+4. Navigate: Home Page → Dashboard or Insights
+5. Use Region & Ship Mode filters to slice the data
+```
+
+---
+
+## 📁 Project Structure
+
+```
+📦 ecommerce-sales-dashboard
+ ┣ 📊 ECommerce_Sales_Dashboard.pbix   ← Main Power BI file
+ ┣ 📂 data/
+ ┃ ┗ 📄 sales_data.csv                 ← Raw data source
+ ┣ 📂 screenshots/
+ ┃ ┣ 🖼️ HOMEPAGE.png
+ ┃ ┣ 🖼️ DASHBOARD1.png
+ ┃ ┗ 🖼️ INSIGHTS.png
+ ┗ 📄 README.md
+```
+
+---
+
+## 👤 Author
+
+<div align="center">
+
+| | |
+|---|---|
+| 👤 **Name** | Manikya |
+| 📊 **Project** | E-Commerce Sales Analysis Dashboard |
+| 📅 **Year** | 2026 |
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you found this useful, please star the repo!**
+
+![Footer](https://img.shields.io/badge/E--Commerce%20Sales%20Analysis%20Dashboard-2026-00bcd4?style=for-the-badge)
+
+</div>
