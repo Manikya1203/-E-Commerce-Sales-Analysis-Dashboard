@@ -182,8 +182,7 @@ Interactive US map showing sales heat by state. West region dominates with up to
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
-|------|---------|
-| 
+|------|---------| 
 <div align="center">
 
 | Tool / Feature | Purpose |
@@ -191,11 +190,11 @@ Interactive US map showing sales heat by state. West region dominates with up to
 | **Microsoft Excel** | Core platform for data analysis & dashboard |
 | **Pivot Tables** | Aggregating and summarizing large datasets |
 | **Pivot Charts** | Visual representation of key metrics |
-| **Slicers** | Interactive filtering (Brand, Retailer, Delivery Co.) |
+| **Slicers**  |
 | **Conditional Formatting** | Highlighting trends and outliers |
 | **Excel Formulas** | KPI calculations (SUM, AVERAGE, etc.) |
-| **Map Chart** | U.S. state-level sales distribution |
-| **Custom Themes** | Coca-Cola red/black brand-aligned design |
+| **Map Chart** |
+
 
 </div>
 
