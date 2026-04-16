@@ -33,7 +33,7 @@
 
 ## 🌐 Overview
 
-This dashboard provides a **360° view of e-commerce sales performance**, designed to help business analysts, managers, and stakeholders make data-driven decisions. It covers everything from high-level KPI tracking to granular category-level profit analysis and AI-generated strategic recommendations.
+This dashboard provides a **360° view of e-commerce sales performance**, designed to help business analysts, managers, and stakeholders make data-driven decisions. It covers everything from high-level KPI tracking to granular category-level profit analysis and  strategic recommendations.
 
 > 🎯 **Goal:** Turn raw sales data into clear, actionable intelligence — from total revenue down to which products are silently eating your margin.
 
