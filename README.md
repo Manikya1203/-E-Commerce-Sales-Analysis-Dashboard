@@ -1,7 +1,15 @@
 # 🛒 E-Commerce Sales Analysis Dashboard
 
 <div align="center">
+<!-- Header Banner -->
+<img width="1892" height="683" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/dd945544-fd09-46f9-9c2c-9449ebd0edc9" />
 
+<br/>
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-1a1a1a?style=for-the-badge&logo=tableau&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Dashboard Banner](https://img.shields.io/badge/E--Commerce-Sales%20Analysis-00bcd4?style=for-the-badge&logo=shopify&logoColor=white)
 ![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)
 
