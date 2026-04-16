@@ -206,12 +206,12 @@ Interactive US map showing sales heat by state. West region dominates with up to
 
 ```
 📦 ecommerce-sales-dashboard
- ┣ 📊 ECommerce_Sales_Dashboard.pbix   ← Main Power BI file
+ ┣ 📊 ECommerce_Sales_Dashboard.xlsx   ← Main Dashboard file
  ┣ 📂 data/
- ┃ ┗ 📄 sales_data.csv                 ← Raw data source
+ ┃ ┗ 📄 sales_data.xlsx                 ← Raw data source
  ┣ 📂 screenshots/
  ┃ ┣ 🖼️ HOMEPAGE.png
- ┃ ┣ 🖼️ DASHBOARD1.png
+ ┃ ┣ 🖼️ DASHBOARD.png
  ┃ ┗ 🖼️ INSIGHTS.png
  ┗ 📄 README.md
 ```
