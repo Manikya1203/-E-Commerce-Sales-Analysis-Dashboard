@@ -11,7 +11,7 @@
 ![Dashboard Banner](https://img.shields.io/badge/E--Commerce-Sales%20Analysis-00bcd4?style=for-the-badge&logo=shopify&logoColor=white)
 ![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)
 
-**A fully interactive multi-page Power BI dashboard for end-to-end e-commerce sales performance analysis — featuring KPIs, trends, profit insights, geographic distribution, and AI-driven business recommendations.**
+**A fully interactive multi-page EXCEL dashboard for end-to-end e-commerce sales performance analysis — featuring KPIs, trends, profit insights, geographic distribution, and AI-driven business recommendations.**
 
 </div>
 
