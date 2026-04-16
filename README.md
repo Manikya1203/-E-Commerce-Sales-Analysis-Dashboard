@@ -184,29 +184,22 @@ Interactive US map showing sales heat by state. West region dominates with up to
 | Tool | Purpose |
 |------|---------|
 | 
+<div align="center">
+
+| Tool / Feature | Purpose |
+|:---|:---|
+| **Microsoft Excel** | Core platform for data analysis & dashboard |
+| **Pivot Tables** | Aggregating and summarizing large datasets |
+| **Pivot Charts** | Visual representation of key metrics |
+| **Slicers** | Interactive filtering (Brand, Retailer, Delivery Co.) |
+| **Conditional Formatting** | Highlighting trends and outliers |
+| **Excel Formulas** | KPI calculations (SUM, AVERAGE, etc.) |
+| **Map Chart** | U.S. state-level sales distribution |
+| **Custom Themes** | Coca-Cola red/black brand-aligned design |
+
+</div>
 
 
-## 🚀 How to Use
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/your-username/ecommerce-sales-dashboard.git
-
-# 2. Open the Power BI file
-cd ecommerce-sales-dashboard
-start ECommerce_Sales_Dashboard.pbix   # Windows
-open ECommerce_Sales_Dashboard.pbix    # Mac (requires Power BI Desktop)
-```
-
-### Steps Inside Power BI
-
-```
-1. Open the .pbix file in Power BI Desktop
-2. Update the data source path (Transform Data → Data Source Settings)
-3. Click Refresh to load your data
-4. Navigate: Home Page → Dashboard or Insights
-5. Use Region & Ship Mode filters to slice the data
-```
 
 ---
 
