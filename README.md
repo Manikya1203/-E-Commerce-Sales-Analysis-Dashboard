@@ -11,17 +11,6 @@
 
 ---
 
-## 📸 Preview
-
-| 🏠 Home Page | 📊 Dashboard | 💡 Insights |
-|:---:|:---:|:---:|
-| ![Home](<img width="1856" height="658" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/c0931fbc-eee8-4024-bb83-124fc37374fd" />)
-| ![Dashboard](<img width="1861" height="657" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/1675394c-2325-4cf4-a985-c5850053c1d1" />)
-| ![Insights](<img width="1862" height="665" alt="INSIGHTS" src="https://github.com/user-attachments/assets/c8c18817-3b78-4c83-ba89-05fcf116cf08" />)|
-| Navigation Hub | KPIs & Visuals | Trends & Alerts |
-
----
-
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
@@ -48,6 +37,7 @@ This dashboard provides a **360° view of e-commerce sales performance**, design
 
 ### `1` 🏠 Home Page
 The **navigation hub** of the report. Users are greeted with a clean welcome screen offering two primary paths:
+<img width="1856" height="658" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/936f3d61-fcd2-4ab0-90cd-f0a852468dc6" />
 
 | Tile | Description |
 |------|-------------|
