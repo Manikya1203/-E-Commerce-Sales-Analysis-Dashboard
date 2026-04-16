@@ -1,8 +1,6 @@
 # 🛒 E-Commerce Sales Analysis Dashboard
 
 <div align="center">
-<!-- Header Banner -->
-<img width="1892" height="683" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/dd945544-fd09-46f9-9c2c-9449ebd0edc9" />
 
 <br/>
 
