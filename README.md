@@ -148,6 +148,8 @@ Interactive US map showing sales heat by state. West region dominates with up to
 ## 💡 Insights & Recommendations
 
 > The **Insights Page** delivers 7 color-coded strategic alerts generated from the data.
+<img width="1867" height="653" alt="INSIGHTS" src="https://github.com/user-attachments/assets/120d3a14-14e5-4edf-b7d4-4a698d8b5708" />
+
 
 ### 🔴 Critical Issues
 
