@@ -50,6 +50,8 @@ The **navigation hub** of the report. Users are greeted with a clean welcome scr
 
 ### `2` 📊 Dashboard Page
 The core analytical view with **filters, KPI cards, and 6 chart types**.
+<img width="1861" height="657" alt="DASHBOARD" src="https://github.com/user-attachments/assets/1ccb98f0-b93e-4caa-b0e7-99dbd391f95c" />
+
 
 #### 🎛️ Active Filters
 | Filter | Options |
@@ -140,6 +142,8 @@ Interactive US map showing sales heat by state. West region dominates with up to
 ## 💡 Insights & Recommendations
 
 > The **Insights Page** delivers 7 color-coded strategic alerts generated from the data.
+<img width="1862" height="665" alt="INSIGHTS" src="https://github.com/user-attachments/assets/afdb7c78-e9d2-4ac9-b503-6af88451363e" />
+
 
 ### 🔴 Critical Issues
 
@@ -173,12 +177,8 @@ Interactive US map showing sales heat by state. West region dominates with up to
 
 | Tool | Purpose |
 |------|---------|
-| ![EXCEL](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) | Dashboard development & visualizations |
-| ![DAX](https://img.shields.io/badge/DAX-Measures%20%26%20KPIs-blue) | KPI calculations, YOY growth, profit metrics |
-| ![Bing Maps](https://img.shields.io/badge/Bing%20Maps-Geographic%20Visual-00bcd4) | Geographic sales distribution map |
-| ![Excel/CSV](https://img.shields.io/badge/Data%20Source-Excel%20%2F%20CSV-217346?logo=microsoftexcel&logoColor=white) | Underlying sales data |
+| 
 
----
 
 ## 🚀 How to Use
 
