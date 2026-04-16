@@ -3,8 +3,6 @@
 <div align="center">
 
 ![Dashboard Banner](https://img.shields.io/badge/E--Commerce-Sales%20Analysis-00bcd4?style=for-the-badge&logo=shopify&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 ![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)
 
 **A fully interactive multi-page Power BI dashboard for end-to-end e-commerce sales performance analysis — featuring KPIs, trends, profit insights, geographic distribution, and AI-driven business recommendations.**
@@ -17,10 +15,9 @@
 
 | 🏠 Home Page | 📊 Dashboard | 💡 Insights |
 |:---:|:---:|:---:|
-| ![Home](<img width="1856" height="658" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/c0931fbc-eee8-4024-bb83-124fc37374fd" />
-) | ![Dashboard](<img width="1861" height="657" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/1675394c-2325-4cf4-a985-c5850053c1d1" />
-) | ![Insights](<img width="1862" height="665" alt="INSIGHTS" src="https://github.com/user-attachments/assets/c8c18817-3b78-4c83-ba89-05fcf116cf08" />
-) |
+| ![Home](<img width="1856" height="658" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/c0931fbc-eee8-4024-bb83-124fc37374fd" />)
+| ![Dashboard](<img width="1861" height="657" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/1675394c-2325-4cf4-a985-c5850053c1d1" />)
+| ![Insights](<img width="1862" height="665" alt="INSIGHTS" src="https://github.com/user-attachments/assets/c8c18817-3b78-4c83-ba89-05fcf116cf08" />)|
 | Navigation Hub | KPIs & Visuals | Trends & Alerts |
 
 ---
